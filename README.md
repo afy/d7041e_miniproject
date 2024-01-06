@@ -12,7 +12,7 @@
 
 ## Project Overview
 
-This repository contains the implementation and analysis of a Multi-Layer Perceptron (MLP) regression model for predicting housing prices. The project is part of the D7041E course at LuleÃ¥ University of Technology.
+This repository contains the implementation and analysis of a Multi-Layer Perceptron (MLP) regression model for predicting housing prices. The project is part of the D7041E course at Luleå University of Technology.
 
 ---
 
