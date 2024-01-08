@@ -50,12 +50,14 @@ The main objectives of the project include:
 - Collections (OrderedDict)
 - Itertools
 - Scikit-learn (OneHotEncoder)
+- IPython
 
 ### Preprocessing
 
 1. **Read Data:** Load data from "housing_data.csv".
 2. **Encode Categorical Column:** Utilize one-hot encoding for the "neighborhood" column.
 3. **Type Conversion:** Convert all values to float.
+4. **Normalization** Normalize data
 
 ### Model Training
 
@@ -68,7 +70,7 @@ The main objectives of the project include:
 
 ### Running Experiments
 
-- Hyperparameter configurations: k_folds, layer_length, in_features_sizes, out_features_sizes.
+- Hyperparameter configurations: k_folds, number_of_hidden_layers, learning_rates, batch_sizes, epochs
 - Cycling through permutations for training and testing.
 
 ---
