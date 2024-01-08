@@ -34,10 +34,10 @@ The main objectives of the project include:
 
 ## Additional Information
 
-- **GitHub Repository:** [https://github.com/afy/d7041e_miniproject](https://github.com/afy/d7041e_miniproject)
-- **Dataset Link:** [Housing Price Prediction Data](https://www.kaggle.com/datasets/muhammadbinimran/housing-price-prediction-data)
-- **Tutorial Source:** [Building a Regression Model in PyTorch](https://machinelearningmastery.com/building-a-regression-model-in-pytorch/)
-- **YouTube Demo Link:** [https://www.youtube.com/watch?v=z8-_-X0Q0zs]
+🔗 **GitHub Repository:** [Explore Code](https://github.com/afy/d7041e_miniproject)
+📊 **Dataset Link:** [Housing Price Prediction Data](https://www.kaggle.com/datasets/muhammadbinimran/housing-price-prediction-data)
+📚 **Tutorial Source:** [Building a Regression Model in PyTorch](https://machinelearningmastery.com/building-a-regression-model-in-pytorch/)
+🎬 **YouTube Demo:** [Watch on YouTube](https://www.youtube.com/watch?v=z8-_-X0Q0zs)
 
 ---
 
