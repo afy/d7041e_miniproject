@@ -34,7 +34,7 @@ The main objectives of the project include:
 
 ## Additional Information
 
-🔗 **GitHub Repository:** [Explore Code](https://github.com/afy/d7041e_miniproject)
+🔗 **GitHub Repository:** [Explore Project](https://github.com/afy/d7041e_miniproject)
 
 📊 **Dataset Link:** [Housing Price Prediction Data](https://www.kaggle.com/datasets/muhammadbinimran/housing-price-prediction-data)
 
